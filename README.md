@@ -2,7 +2,7 @@
 
 demo installutil.exe usage to bypass applocker or other whitelisting solution. will open only a messagebox to demonstrate that it works. can also be used to bypass powershell contrained language mode CLM etc. see references for CLM. 
 
-usage `C:\Users\USER\Desktop>c:\windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe HelloWorld.exe`
+usage `c:\windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe HelloWorld.exe`
 
 # build
 
